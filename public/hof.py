@@ -7,4 +7,3 @@ def display(f):
 def sayHello(name):
     return f'Hello {name}'
 
-display(sayHello('John'))
